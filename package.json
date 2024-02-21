@@ -2,6 +2,7 @@
   "name": "web-credential-handler",
   "version": "2.0.3-0",
   "description": "Credential Handler API util functions for Bedrock Web apps",
+  "type": "module",
   "main": "index.js",
   "dependencies": {
     "credential-handler-polyfill": "^3.0.2",
